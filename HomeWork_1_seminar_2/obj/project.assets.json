@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_22/HomeWork_1_seminar_22.csproj",
+      "projectUniqueName": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_2/HomeWork_1_seminar_22.csproj",
       "projectName": "HomeWork_1_seminar_22",
-      "projectPath": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_22/HomeWork_1_seminar_22.csproj",
+      "projectPath": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_2/HomeWork_1_seminar_22.csproj",
       "packagesPath": "/home/eduard/.nuget/packages/",
-      "outputPath": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_22/obj/",
+      "outputPath": "/home/eduard/HomeWork_seminar2/HomeWork_1_seminar_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eduard/.nuget/NuGet/NuGet.Config"
